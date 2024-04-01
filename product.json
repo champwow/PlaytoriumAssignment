@@ -1,0 +1,9 @@
+[
+    {"id": 1, "name": "T-Shirt", "category": "clothes", "price": 350},
+    {"id": 2, "name": "Jeans", "category": "clothes", "price": 500},
+    {"id": 3, "name": "Sneakers", "category": "clothes", "price": 800},
+    {"id": 4, "name": "Backpack", "category": "Accessories,", "price": 600},
+    {"id": 5, "name": "Watch", "category": "Electronics)", "price": 1000},
+    {"id": 6, "name": "Hat", "category": "Accessories", "price": 250},
+    {"id": 6, "name": "Belt", "category": "Accessories", "price": 230}
+]
